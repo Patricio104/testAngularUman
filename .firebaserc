@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "demoangular-8c543": {
+      "hosting": {
+        "testAngular": [
+          "demoangular-8c543"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "demoangular-8c543"
+  }
+}
